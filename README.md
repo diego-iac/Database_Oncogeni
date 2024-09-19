@@ -12,7 +12,7 @@ Il database si può creare in MySQL Workbench importando le tabelle scaricate e 
 Il file Progetto_Basili.sql contiene delle query di esempio per mostrare l'uso del database. 
 
 
-# CAVEAT:
+# Caveat
   Il database implica una relazione di tipo uno-a-uno tra i geni e le proteine, ovvero un gene codifica per una e una sola proteina. Ciò non è necessariamente vero e perciò il database andrebbe corretto in tal senso.
 
 
