@@ -1,0 +1,168 @@
+entrez,symbol,pubmed_id,type,organ_system,driver_type
+92,ACVR2A,31645727,WES-Gene Panel,Developmental gastrointestinal,healthy
+207,AKT1,31187483,Gene Panel,Gynecologic,healthy
+213,ALB,31645727,WES-Gene Panel,Developmental gastrointestinal,healthy
+213,ALB,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+338,APOB,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+387,RHOA,33004514,WGS-WES-Gene Panel,Urologic,healthy
+463,ZFHX3,32350471,WGS,Gynecologic,healthy
+595,CCND1,30337457,Gene Panel,Core gastrointestinal,healthy
+673,BRAF,33029006,Gene Panel,Skin,healthy
+677,ZFP36L1,33004514,WGS-WES-Gene Panel,Urologic,healthy
+678,ZFP36L2,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+688,KLF5,33004514,WGS-WES-Gene Panel,Urologic,healthy
+867,CBL,25426837,WES,Hematologic and lymphatic,healthy
+867,CBL,33029006,Gene Panel,Skin,healthy
+1006,CDH8,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+1026,CDKN1A,33004514,WGS-WES-Gene Panel,Urologic,healthy
+1029,CDKN2A,33029006,Gene Panel,Skin,healthy
+1106,CHD2,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+1108,CHD4,32350471,WGS,Gynecologic,healthy
+1387,CREBBP,33004514,WGS-WES-Gene Panel,Urologic,healthy
+1499,CTNNB1,30428062,Gene Panel,Gynecologic,healthy
+1654,DDX3X,33029006,Gene Panel,Skin,healthy
+1788,DNMT3A,25426838,WES,Hematologic and lymphatic,healthy
+1788,DNMT3A,25426837,WES,Hematologic and lymphatic,healthy
+1788,DNMT3A,25326804,WES,Hematologic and lymphatic,healthy
+1834,DSPP,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+1999,ELF3,33004514,WGS-WES-Gene Panel,Urologic,healthy
+2033,EP300,33004514,WGS-WES-Gene Panel,Urologic,healthy
+2064,ERBB2,30428062,Gene Panel,Gynecologic,healthy
+2064,ERBB2,31187483,Gene Panel,Gynecologic,healthy
+2064,ERBB2,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+2064,ERBB2,32350471,WGS,Gynecologic,healthy
+2065,ERBB3,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+2065,ERBB3,32350471,WGS,Gynecologic,healthy
+2068,ERCC2,33004514,WGS-WES-Gene Panel,Urologic,healthy
+2195,FAT1,25999502,Gene Panel,Skin,healthy
+2195,FAT1,30337457,Gene Panel,Core gastrointestinal,healthy
+2195,FAT1,30110635,WES-Gene Panel,Gynecologic,healthy
+2195,FAT1,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+2195,FAT1,31996850,WGS,Thoracic,healthy
+2201,FBN2,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+2263,FGFR2,31187483,Gene Panel,Gynecologic,healthy
+2263,FGFR2,30110635,WES-Gene Panel,Gynecologic,healthy
+2778,GNAS,25426837,WES,Hematologic and lymphatic,healthy
+2778,GNAS,25326804,WES,Hematologic and lymphatic,healthy
+2782,GNB1,25426837,WES,Hematologic and lymphatic,healthy
+2909,ARHGAP35,32350471,WGS,Gynecologic,healthy
+2909,ARHGAP35,30110635,WES-Gene Panel,Gynecologic,healthy
+3170,FOXA2,32350471,WGS,Gynecologic,healthy
+3717,JAK2,25426837,WES,Hematologic and lymphatic,healthy
+3717,JAK2,25326804,WES,Hematologic and lymphatic,healthy
+3845,KRAS,28489996,WES-Gene Panel,Gynecologic,healthy
+3845,KRAS,30428062,Gene Panel,Gynecologic,healthy
+3845,KRAS,31187483,Gene Panel,Gynecologic,healthy
+3845,KRAS,32350471,WGS,Gynecologic,healthy
+3845,KRAS,30110635,WES-Gene Panel,Gynecologic,healthy
+4288,MKI67,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+4763,NF1,33029006,Gene Panel,Skin,healthy
+4763,NF1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+4780,NFE2L2,30337457,Gene Panel,Core gastrointestinal,healthy
+4851,NOTCH1,25999502,Gene Panel,Skin,healthy
+4851,NOTCH1,30337457,Gene Panel,Core gastrointestinal,healthy
+4851,NOTCH1,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+4851,NOTCH1,31996850,WGS,Thoracic,healthy
+4853,NOTCH2,33004514,WGS-WES-Gene Panel,Urologic,healthy
+4853,NOTCH2,25999502,Gene Panel,Skin,healthy
+4853,NOTCH2,30337457,Gene Panel,Core gastrointestinal,healthy
+4853,NOTCH2,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+4854,NOTCH3,25999502,Gene Panel,Skin,healthy
+4854,NOTCH3,30337457,Gene Panel,Core gastrointestinal,healthy
+4854,NOTCH3,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+4893,NRAS,31187483,Gene Panel,Gynecologic,healthy
+4893,NRAS,33029006,Gene Panel,Skin,healthy
+5083,PAX9,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+5284,PIGR,32697969,WGS,Core gastrointestinal,healthy
+5290,PIK3CA,28489996,WES-Gene Panel,Gynecologic,healthy
+5290,PIK3CA,30428062,Gene Panel,Gynecologic,healthy
+5290,PIK3CA,31187483,Gene Panel,Gynecologic,healthy
+5290,PIK3CA,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+5290,PIK3CA,30337457,Gene Panel,Core gastrointestinal,healthy
+5290,PIK3CA,32350471,WGS,Gynecologic,healthy
+5290,PIK3CA,30110635,WES-Gene Panel,Gynecologic,healthy
+5290,PIK3CA,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+5295,PIK3R1,32350471,WGS,Gynecologic,healthy
+5295,PIK3R1,30110635,WES-Gene Panel,Gynecologic,healthy
+5310,PKD1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+5314,PKHD1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+5426,POLE,30110635,WES-Gene Panel,Gynecologic,healthy
+5518,PPP2R1A,28489996,WES-Gene Panel,Gynecologic,healthy
+5518,PPP2R1A,32350471,WGS,Gynecologic,healthy
+5537,PPP6C,33029006,Gene Panel,Skin,healthy
+5604,MAP2K1,33029006,Gene Panel,Skin,healthy
+5728,PTEN,33004514,WGS-WES-Gene Panel,Urologic,healthy
+5728,PTEN,33029006,Gene Panel,Skin,healthy
+5728,PTEN,31996850,WGS,Thoracic,healthy
+5922,RASA2,33029006,Gene Panel,Skin,healthy
+6427,SRSF2,25426837,WES,Hematologic and lymphatic,healthy
+6872,TAF1,30110635,WES-Gene Panel,Gynecologic,healthy
+7157,TP53,25426837,WES,Hematologic and lymphatic,healthy
+7157,TP53,25999502,Gene Panel,Skin,healthy
+7157,TP53,30337457,Gene Panel,Core gastrointestinal,healthy
+7157,TP53,25326804,WES,Hematologic and lymphatic,healthy
+7157,TP53,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+7157,TP53,31996850,WGS,Thoracic,healthy
+7157,TP53,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+7403,KDM6A,33004514,WGS-WES-Gene Panel,Urologic,healthy
+7840,ALMS1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+8085,KMT2D,33004514,WGS-WES-Gene Panel,Urologic,healthy
+8085,KMT2D,30337457,Gene Panel,Core gastrointestinal,healthy
+8085,KMT2D,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+8241,RBM10,33004514,WGS-WES-Gene Panel,Urologic,healthy
+8241,RBM10,25999502,Gene Panel,Skin,healthy
+8289,ARID1A,28489996,WES-Gene Panel,Gynecologic,healthy
+8289,ARID1A,33004514,WGS-WES-Gene Panel,Urologic,healthy
+8289,ARID1A,30337457,Gene Panel,Core gastrointestinal,healthy
+8289,ARID1A,32697969,WGS,Core gastrointestinal,healthy
+8289,ARID1A,30110635,WES-Gene Panel,Gynecologic,healthy
+8289,ARID1A,31996850,WGS,Thoracic,healthy
+8289,ARID1A,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+8313,AXIN2,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+8405,SPOP,32350471,WGS,Gynecologic,healthy
+8452,CUL3,30337457,Gene Panel,Core gastrointestinal,healthy
+8493,PPM1D,25426838,WES,Hematologic and lymphatic,healthy
+8493,PPM1D,25326804,WES,Hematologic and lymphatic,healthy
+8493,PPM1D,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+8626,TP63,30337457,Gene Panel,Core gastrointestinal,healthy
+10290,SPEG,30110635,WES-Gene Panel,Gynecologic,healthy
+10672,GNA13,33004514,WGS-WES-Gene Panel,Urologic,healthy
+10735,STAG2,33004514,WGS-WES-Gene Panel,Urologic,healthy
+10735,STAG2,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+11200,CHEK2,30602793,WES-Gene Panel,Core gastrointestinal,healthy
+11200,CHEK2,31996850,WGS,Thoracic,healthy
+23332,CLASP1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+23451,SF3B1,25426837,WES,Hematologic and lymphatic,healthy
+23451,SF3B1,25326804,WES,Hematologic and lymphatic,healthy
+23512,SUZ12,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+23654,PLXNB2,30110635,WES-Gene Panel,Gynecologic,healthy
+26053,AUTS2,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+54790,TET2,25426838,WES,Hematologic and lymphatic,healthy
+54790,TET2,25426837,WES,Hematologic and lymphatic,healthy
+54790,TET2,25326804,WES,Hematologic and lymphatic,healthy
+55127,HEATR1,30110635,WES-Gene Panel,Gynecologic,healthy
+55294,FBXW7,31645730,WGS-Gene Panel,Core gastrointestinal,healthy
+55294,FBXW7,32350471,WGS,Gynecologic,healthy
+55294,FBXW7,32697969,WGS,Core gastrointestinal,healthy
+55294,FBXW7,30110635,WES-Gene Panel,Gynecologic,healthy
+55911,APOBR,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+57519,STARD9,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+57634,EP400,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+60676,PAPPA2,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+63035,BCORL1,25326804,WES,Hematologic and lymphatic,healthy
+80149,ZC3H12A,32697969,WGS,Core gastrointestinal,healthy
+84962,AJUBA,30337457,Gene Panel,Core gastrointestinal,healthy
+85302,FBF1,31645727,WES-Gene Panel,Developmental gastrointestinal,healthy
+85302,FBF1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+91156,IGFN1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+93953,GCNA,30110635,WES-Gene Panel,Gynecologic,healthy
+94234,FOXQ1,33004514,WGS-WES-Gene Panel,Urologic,healthy
+133522,PPARGC1B,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+169044,COL22A1,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
+171023,ASXL1,25426838,WES,Hematologic and lymphatic,healthy
+171023,ASXL1,25426837,WES,Hematologic and lymphatic,healthy
+171023,ASXL1,25326804,WES,Hematologic and lymphatic,healthy
+196528,ARID2,30337457,Gene Panel,Core gastrointestinal,healthy
+196528,ARID2,33029006,Gene Panel,Skin,healthy
+196528,ARID2,31996850,WGS,Thoracic,healthy
+196528,ARID2,30955891,WES-Gene Panel,Developmental gastrointestinal,healthy
