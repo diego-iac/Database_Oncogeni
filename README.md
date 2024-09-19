@@ -7,7 +7,8 @@ Sono riportate le tabelle che costituiscono il database in formato .csv per pote
 Sono inoltre riportati il codice ed i dataset utilizzati per creare il database. Il procedimento è riportato sotto.
 
 # Workflow
-I dati dai tre diversi database utilizzati si possono scaricare tramite il file download_data.ipybn. I dati sono scaricati in formato csv e possono essere visionati tramite load_data.ipybn. 
+I dati dai tre diversi database utilizzati si possono scaricare tramite il file download_data.ipybn. 
+I dati sono scaricati in formato csv e possono essere visionati tramite load_data.ipybn. 
 Il database si può creare in MySQL Workbench importando le tabelle scaricate e per poi eseguire il file Progetto_Basili.sql
 Il file Progetto_Basili.sql contiene delle query di esempio per mostrare l'uso del database. 
 
