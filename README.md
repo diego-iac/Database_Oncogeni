@@ -22,12 +22,11 @@ Inoltre il file Codice_Database.sql contiene delle query di esempio da utilizzar
 
 # Autori del progetto
 
-  Iacuone Diego
-  
-  Odierno Aurora
-  
-  Pachiarotti Giulio
-
+    Iacuone Diego
+    
+    Odierno Aurora
+    
+    Pacchiarotti Giulio
 
 # Bibliografia
 
