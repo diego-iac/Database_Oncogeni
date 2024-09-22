@@ -27,3 +27,14 @@ Inoltre il file Codice_Database.sql contiene delle query di esempio da utilizzar
   Odierno Aurora
   
   Pachiarotti Giulio
+
+
+# Bibliografia
+
+SIGNOR:  Lo Surdo P, Iannuccelli M, Contino S, Castagnoli L, Licata L, Cesareni G, Perfetto L. SIGNOR 3.0, the SIGnaling network open resource 3.0: 2022 update. Nucleic Acids Res. 2022 Oct 16:gkac883. doi: 10.1093/nar/gkac883. Epub ahead of print. PMID: 36243968.
+
+
+Cancer Gene Net:  Dressler, Lisa, et al. "Comparative assessment of genes driving cancer and somatic evolution in non-cancer tissues: an update of the Network of Cancer Genes (NCG) resource." Genome biology 23.1 (2022): 35.
+
+
+The UniProt Consortium , UniProt: the Universal Protein Knowledgebase in 2023, Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D523–D531, https://doi.org/10.1093/nar/gkac1052 
