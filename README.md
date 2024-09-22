@@ -7,7 +7,7 @@ Sono riportate le tabelle che costituiscono il database in formato .csv per pote
 Sono inoltre riportati il codice ed i dataset utilizzati per creare il database. Il procedimento è riportato sotto.
 
 # Workflow
-I dati dai tre diversi database utilizzati si possono scaricare tramite il file download_data.ipybn. Le tabelle sono comunque già disponibili, ad eccezione del dataset contenente i dati di Uniprot in quanto troppo grande per essere salvata in GitHub.
+I dati dai tre diversi database utilizzati si possono scaricare tramite il file download_data.ipybn. Le tabelle sono comunque già disponibili nella cartella Dataset, ad eccezione della tabella contenente i dati di Uniprot in quanto troppo grande per essere salvata in GitHub.
 
 I dati vengono scaricati in formato .csv e possono essere visionati tramite load_data.ipybn. 
 
